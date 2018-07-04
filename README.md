@@ -1,4 +1,4 @@
 # hello-world
 
 Hi,Humans!
-YangLujun is here.Nace to meet you!
+YangLujun is here.Nice to meet you!
