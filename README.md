@@ -1,2 +1,4 @@
 # hello-world
-the first repository
+
+Hi,Humans!
+YangLujun is here.Nace to meet you!
